@@ -1,0 +1,27 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J3,Conn_02x14_Odd_Even,PinHeader_2x14_P2.54mm_Vertical,150.32,-98.265,90.0,bottom
+JP1,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,124.5,-93.35,-90.0,top
+JP2,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,119.0,-93.35,90.0,top
+JP3,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,183.5,-79.85,90.0,top
+JP4,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,177.0,-79.5,-90.0,top
+JP5,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,118.5,-75.85,-90.0,top
+JP6,Jumper_2_Open,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,124.5,-75.85,90.0,top
+Q1,MMBT2222A_C8512,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,143.05,-70.5,-90.0,top
+Q2,MMBT2222A_C8512,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,169.0,-75.0,-90.0,top
+Q4,MMBT2222A_C8512,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,130.0,-88.0,-90.0,top
+R1,1M,R_0805_2012Metric,183.5,-84.4125,-90.0,top
+R2,1M,R_0805_2012Metric,119.0,-97.9125,-90.0,top
+R3,1M,R_0805_2012Metric,124.5,-81.0875,-90.0,top
+R4,6.8k,R_0805_2012Metric,129.0,-93.0875,90.0,top
+R5,6.8k,R_0805_2012Metric,142.05,-75.5875,90.0,top
+R6,6.8k,R_0805_2012Metric,168.0,-81.0875,90.0,top
+R7,2.2M,R_0805_2012Metric,124.5,-98.0875,-90.0,top
+R8,2.2M,R_0805_2012Metric,118.5,-81.4125,-90.0,top
+R9,2.2M,R_0805_2012Metric,177.0,-84.4125,-90.0,top
+U1,SFH 4544,LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm,122.0,-67.0,-90.0,top
+U2,SFH 4544,LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm,153.0,-72.0,180.0,top
+U3,SFH 4544,LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm,178.5,-67.0,90.0,top
+U4,BPW41N,SENSOR-TH_BPW41N,117.8325,-67.1975,-90.0,top
+U5,BPW41N,SENSOR-TH_BPW41N,152.8025,-68.3325,180.0,top
+U6,BPW41N,SENSOR-TH_BPW41N,182.9675,-67.0325,90.0,top
+U7,LM324DT,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,153.5,-88.5,0.0,top
