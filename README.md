@@ -10,6 +10,15 @@ This repository contains the design and implementation of the sensing and power 
 - **PCB Design**: Includes the design of a custom PCB that integrates with the micromouse.
 - **Autonomous Navigation**: Explores and solves a maze autonomously.
 
+## Necessary Additional Components
+- **STM32L476 microcontroller**
+- **Motherboard PCB with PIN connections**
+- **Wheels and motors for movement (multi-rotational drawing approximately 200mA each**
+- **Battery LiPo 800mAh 3.7V**
+- **Battery, Power and Sensing headers need to be purchased and soldered on during assembly**
+- **5V Power supply for charging**
+- **Device capable of running MATLAB**
+
 ## Installation
 
 1. Clone the repository:
